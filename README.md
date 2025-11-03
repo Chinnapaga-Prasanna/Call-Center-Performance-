@@ -113,5 +113,4 @@ Using slicers and conditional formatting to improve interactivity and readabilit
 
 # Dashboard Preview
 Dashboard looks like:https://github.com/Chinnapaga-Prasanna/Call-Center-Performance-/blob/main/call%20center%20project.xlsx
-Example:https://github.com/Chinnapaga-Prasanna/Call-Center-Performance-/blob/main/Call%20Center%20Dashboard%20Demo.png
 
